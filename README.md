@@ -1,16 +1,13 @@
-## Hi there 👋
+<p align="center">
+  <img src="ticker.gif" width="100%">
+</p>
+<a href="https://github.com/Dylandelany/Dylandelany">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dylandelany/Dylandelany/main/profile-card-dark.svg">
+    <img alt="Dylan's GitHub Profile README" src="https://raw.githubusercontent.com/Dylandelany/Dylandelany/main/profile-card-light2.svg">
+  </picture>
+</a>
+<p align="center">
+  <img src="ticker2.gif" width="100%">
+</p>
 
-<!--
-**Dylandelany/Dylandelany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
