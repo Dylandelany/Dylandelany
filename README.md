@@ -3,8 +3,10 @@
 </p>
 <a href="https://github.com/Dylandelany/Dylandelany">
 
- <a href="https://github.com/Dylandelany">
+<a href="https://github.com/Dylandelany#gh-dark-mode-only">
   <img alt="Dylan's GitHub Profile README" src="https://raw.githubusercontent.com/Dylandelany/Dylandelany/main/profile-card-dark.svg#gh-dark-mode-only">
+</a>
+<a href="https://github.com/Dylandelany#gh-light-mode-only">
   <img alt="Dylan's GitHub Profile README" src="https://raw.githubusercontent.com/Dylandelany/Dylandelany/main/profile-card-light2.svg#gh-light-mode-only">
 </a>
 
