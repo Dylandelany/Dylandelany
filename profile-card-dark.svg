@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="1300px" height="670px" font-size="16px">
+<style>
+@font-face {
+src: local('Consolas'), local('Consolas Bold');
+font-family: 'ConsolasFallback';
+font-display: swap;
+-webkit-size-adjust: 109%;
+size-adjust: 109%;
+}
+.key {fill: #ffa657;}
+.value {fill: #a5d6ff;}
+.addColor {fill: #3fb950;}
+.delColor {fill: #f85149;}
+.cc {fill: #616e7f;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="1300px" height="670px" fill="#161b22" rx="15"/>
+<text x="15" y="18" fill="#c9d1d9" font-size="9px" class="ascii">
+<tspan x="15" y="18">                                                                                             </tspan>
+<tspan x="15" y="29">                                                                                             </tspan>
+<tspan x="15" y="40">                                                                                             </tspan>
+<tspan x="15" y="51">                                      ===+*##*+-=====                                        </tspan>
+<tspan x="15" y="62">                                  +-+#%%%%%%%%%@%%%%%#+=-=                                   </tspan>
+<tspan x="15" y="73">                               -*%@%%%#%%%%%%%%%%%%%%%%%%#+-=                                </tspan>
+<tspan x="15" y="84">                             -+#%%#%%%%%%%%%%%%%%%%%%%%#%%%%##+=                             </tspan>
+<tspan x="15" y="95">                            +*%%%%%%%@%%%%%%%@@@@@@@@%%%%%%%%%%#+-                           </tspan>
+<tspan x="15" y="106">                          -#%%%%@%%%#%%%%%@@@%%@#*#%@@@%%%%%%%%%%#+-                         </tspan>
+<tspan x="15" y="117">                         =#%%%%%%%%%@@@@@@###%%%%+#*%#@@@@@%%%%#%%%#                         </tspan>
+<tspan x="15" y="128">                        +*%%%%%%@%@@%@%@#@%=%%%-@+=++=@@%@@@%#%%%%%%+                        </tspan>
+<tspan x="15" y="139">                        =%%%%%%%%+%%@%#%+++@@%=-#@==+#@.-#@@@%@%%%%%#                        </tspan>
+<tspan x="15" y="150">                       =*%%%%#@@#@@@@%+*+**#+%#+#@=+@@-==-=+@%%%%%#%%+                       </tspan>
+<tspan x="15" y="161">                       =%%%%%@@%#@+++==++++===+#@@+%*-=*+===@@@#%%%%%*                       </tspan>
+<tspan x="15" y="172">                       =%%%%%%@---:.=-===+=+++++==--::......-+%@%%%@%#*                      </tspan>
+<tspan x="15" y="183">                       =%#%%%@*-=%@@@#=....----=....=@@@@@@@+-=@%%#%%*                       </tspan>
+<tspan x="15" y="194">                       -%%%%@@+=@==--=#@@@@++=++=@@@*.......#=-@%%%%%+                       </tspan>
+<tspan x="15" y="205">                       =%@#@@@:=-:==*+--.:=++=+++-.-+@#@@@+=+=:@@%#@@*                       </tspan>
+<tspan x="15" y="216">                        %@#@@%:=+@@.#@@#=%+#+==+*=@+.@@@.%@%+=-+@@@@%.                       </tspan>
+<tspan x="15" y="227">                        .@@@@+:++=++=..-=+#*++++**++=:..-+=+*+-:@@@%-.                       </tspan>
+<tspan x="15" y="238">                        .=.%@#:++++++++++++=*=+++++=++++++++++==@@..:.                       </tspan>
+<tspan x="15" y="249">                         ::=@@-========+==+*#**##+====+=====+=-@@#@=.                        </tspan>
+<tspan x="15" y="260">                          ..#@#=+++++++==%%+=---=*@+==+++++++++@@:..                         </tspan>
+<tspan x="15" y="271">                           ....=+========+:@@==#@%.#========+==...                           </tspan>
+<tspan x="15" y="282">                              @-=++====+***+-=+==+#*++++=++++:@@                             </tspan>
+<tspan x="15" y="293">                               *-++++*+++========-==+=++++++=.@+                             </tspan>
+<tspan x="15" y="304">                               ---+++++%####%%#@%%#*+%**+++=-#@                              </tspan>
+<tspan x="15" y="315">                                 .+++++=*@%#++==+*%@@*+++==...                               </tspan>
+<tspan x="15" y="326">                                 :%*+*+=====+*##*++=-==+++#-                                 </tspan>
+<tspan x="15" y="337">                                  =#%*++++++=======+++=**@#.                                 </tspan>
+<tspan x="15" y="348">                                 @*=+@%+==+++*++***+==+@%==-                                 </tspan>
+<tspan x="15" y="359">                                +@#===+@%=-++*#+*==-=%@+===#@-                               </tspan>
+<tspan x="15" y="370">                              ==%#+=++=+#%%%%%%%%%%@@#==+==%+%+                              </tspan>
+<tspan x="15" y="381">                            -+#%@+%==++++*+==--===+++++++-*%+@#+=                            </tspan>
+<tspan x="15" y="392">                         ==+*%%%@+*@:=+++*++*++++++++++==:@**@%%%#+=                         </tspan>
+<tspan x="15" y="403">                    -===+#%%%%%%@@=%%--==+++++++++*+===--@#=@@%%%%%#+====-                   </tspan>
+<tspan x="15" y="414">              -====+#%%%%%%%%%%%%@++%@--==+++====+++==--@#+#@%%%%%%%%%%%%#+=-==-             </tspan>
+<tspan x="15" y="425">         --==+#%%%%%%%%%%%%%%%%%%@%++#@*--+++++++++=--#@#++@%%%%%%%%%%%%%%%%%%%#+=--=        </tspan>
+<tspan x="15" y="436">    ====+#%%%%%%%%%%%%%%%%%%%%%%%%@+#*#@@=-=++++++=-=@%*++%@%%%%%%%%%%%%%%%%%%%%%%%%#+==--   </tspan>
+<tspan x="15" y="447">  -+#%%%%%%%%%%%%%%%%%%%%%%%%%%%%%@*###*%@=--====--*@%***+@%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#=: </tspan>
+<tspan x="15" y="458">  *%%%%%%%%%%%%%%%%%%%#%%%%%%%%%%%@%+###*#%@#----#%%*+*#*#@%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%* </tspan>
+<tspan x="15" y="469"> +%%%%%%%%%%%%%%%%%%%%@%%%%%%%%%%%%@+*#*+++#%%%%%%%*=++*+@%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#-</tspan>
+<tspan x="15" y="480"> #%%%@%%%%%%%%%%%%%%%%%@%%%%%%%%%%%@+=+*%%%%%:..##%%@@#=+@%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%@%%%-</tspan>
+<tspan x="15" y="491">-%%%%%%%%%%%%%%%%%%%%@%%%%%%%%%%%%%%%%%#####%%@%%*%##%#*@%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#%%%%%-</tspan>
+<tspan x="15" y="502">-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%####*#######+%###+*@%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%@%%%%-</tspan>
+<tspan x="15" y="513">-%%%%%@%%%%%%%%%%%%%%%%%%%%%%%%%%%%%@%+*#########*%*##+%@%%%%%%%%%%%%%%%%@%%%%%%%%%%%%%%%%%%-</tspan>
+<tspan x="15" y="524">-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%+######%%%%*####+@%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%@%#%%%-</tspan>
+<tspan x="15" y="535">-%%%%%#@%%%%%%%%%%%%%%%%%%%%%%%%%%%%%@=#####%=..%####*+@%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#%%%%-</tspan>
+<tspan x="15" y="546">-%%%%%#%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%@+*####%+::%#%##+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%@%%%%%%-</tspan>
+<tspan x="15" y="557">.-------=------------=---------------=-.-::::=++-.:-::==---------------=------------==------.</tspan>
+</text>
+<text x="575" y="30" fill="#c9d1d9">
+<tspan x="575" y="30">Dylandelany@github</tspan> -———————————————————————————————————————————————-—-
+<tspan x="575" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........................................................ </tspan><tspan class="value">Windows</tspan>
+<tspan x="575" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="value">3 years in Financial Market</tspan>
+<tspan x="575" y="90" class="cc">. </tspan><tspan class="key">Role</tspan>:<tspan class="cc"> ........................... </tspan><tspan class="value">Finance Student @ BINUS University</tspan>
+<tspan x="575" y="110" class="cc">. </tspan><tspan class="key">Editor</tspan>:<tspan class="cc"> ..................................................... </tspan><tspan class="value">VSCode</tspan>
+<tspan x="575" y="130" class="cc">. </tspan>
+<tspan x="575" y="150" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ...................................... </tspan><tspan class="value">Python</tspan>
+<tspan x="575" y="170" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Computer</tspan>:<tspan class="cc"> ................................. </tspan><tspan class="value">HTML, CSS, PHP</tspan>
+<tspan x="575" y="190" class="cc">. </tspan><tspan class="key">Languages</tspan>:<tspan class="cc"> ...................................... </tspan><tspan class="value">Indonesia, English</tspan>
+<tspan x="575" y="210" class="cc">. </tspan>
+<tspan x="575" y="230" class="cc">. </tspan><tspan class="key">Hobbies</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">Investing, Financial Analysis</tspan>
+<tspan x="575" y="250" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Other</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">Gaming, Design, Crypto Investing</tspan>
+<tspan x="575" y="290">- Contact</tspan> -————————————————————————————————————————————————————————-—-
+<tspan x="575" y="310" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ................................. </tspan><tspan class="value">dylanachmaddelany@gmail.com</tspan>
+<tspan x="575" y="330" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> ..................................... </tspan><tspan class="value">Github.com/Dylandelany</tspan>
+<tspan x="575" y="350" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ...................................... </tspan><tspan class="value">Dylan Achmad Delany</tspan>
+<tspan x="575" y="370" class="cc">. </tspan><tspan class="key">Instagram</tspan>:<tspan class="cc"> .............................................. </tspan><tspan class="value">@deelanyy_</tspan>
+<tspan x="575" y="410">- Portfolio Stats</tspan> -————————————————————————————————————————————————-—-
+<tspan x="575" y="430" class="cc">. </tspan><tspan class="key">Exchange</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">Ajaib | Ajaib crypto | Binance | Pintu</tspan>
+<tspan x="575" y="450" class="cc">. </tspan><tspan class="key">Equity ajaib</tspan>:<tspan class="cc"> ........................................ </tspan><tspan class="value">Rp 35,xxx,xxx</tspan>
+<tspan x="575" y="470" class="cc">. </tspan><tspan class="key">Equity ajaib crypto</tspan>:<tspan class="cc"> ................................. </tspan><tspan class="value">Rp.11,xxx,xxx</tspan>
+<tspan x="575" y="490" class="cc">. </tspan><tspan class="key">Equity Binance</tspan>:<tspan class="cc"> ............................................. </tspan><tspan class="value">$x,xxx</tspan>
+<tspan x="575" y="510" class="cc">. </tspan><tspan class="key">Holdings</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">Stocks | Crypto | Reksadana | Obligasi | Real Estate</tspan>
+<tspan x="575" y="530" class="cc">. </tspan><tspan class="key">Since</tspan>:<tspan class="cc"> ........................................................ </tspan><tspan class="value">2023</tspan>
+<tspan x="575" y="550" class="cc">. </tspan><tspan class="key">Strategy</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">Value Investing | Portofolio Engineering</tspan>
+</text>
+</svg>
