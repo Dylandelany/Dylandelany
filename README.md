@@ -10,10 +10,12 @@
   <img alt="Dylan's GitHub Profile README" src="https://raw.githubusercontent.com/Dylandelany/Dylandelany/main/profile-card-light2.svg#gh-light-mode-only">
 </a>
 <img src="https://orderbook-visitor.vercel.app/api/prices" width="100%">
+<img src="https://orderbook-visitor.vercel.app/api/news" width="100%"> 
 
 [![Paper Trading Terminal](./banner.svg)](https://dylandelany.github.io/Trading_game/)
 <p align="center">
   <img src="https://orderbook-visitor.vercel.app/api/orderbook" width="100%">
+  
 </p>
 <p align="center">
   <img src="ticker2.gif" width="100%">
